@@ -6,9 +6,13 @@ Hugo系列安装包
 
 HugoProgs+HugoDbg
 
-HugoWidgets
+HugoWidgets+PyExplorer
 
 HugoWinPE+PETools
 
 ## 使用说明
+
+* [HugoProgs-bundle](docs/HugoProgs.md)
+* [HugoWidgets](docs/HugoWidgets.md)
+* [HugoWinPE](docs/HugoWinPE.md)
 
