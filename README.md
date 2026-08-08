@@ -14,4 +14,4 @@ Hugo系列安装包
 
 * [HugoProgs-bundle](docs/HugoProgs.md)
 * [HugoWidgets-bundle](docs/HugoWidgets.md)
-* [HugoWinPE](docs/HugoWinPE.md)
+* [HugoWinPE-bundle](docs/HugoWinPE.md)
