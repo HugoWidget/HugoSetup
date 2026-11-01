@@ -12,6 +12,8 @@ Hugo系列安装包
 
 1. HugoProgs+HugoDbg+HugoFrzDsk+HugoFrzDrvHook，不含 `PyExplorer` 与 `HugoWinPE`
 
+   > 在 v1.2.1（对应 HugoProgs v1.4.0）版本后，HugoProgs 的发布包将携带运行时依赖，以增强程序的兼容性。
+   
 2. HugoWidgets+PyExplorer
 
 3. HugoWinPE+PETools
