@@ -6,36 +6,41 @@
 
 ## 项目构成
 
-该工具由[HugoProgs](https://github.com/HugoWidget/HugoProgs)与[WinTools](https://github.com/howdy213/WinTools)项目组成
+该工具由 [HugoProgs](https://github.com/HugoWidget/HugoProgs) 与 [WinTools](https://github.com/howdy213/WinTools) 项目组成
 
-- Install.exe ：运行后将会注册开机自启动 HugoLock/HotspotHelper（注入希沃管家解除锁屏与热键+启动班级热点 ）
+- InstallService.exe ：注册服务以实现开机自启动
 
 ​	效果等同于 config/service/install
 
-- UnInstall.exe：取消开机自启
+- UnInstallService.exe：取消开机自启
 
 ​	效果等同于 config/service/uninstall
 
 - Start.exe：管理员模式启动HugoProgs
 
-  
+了解更多：https://github.com/HugoWidget/HugoProgs
+
 
 ## 许可证
 
-本项目采用 GPLv3 许可证，详情参见 [LICENSE](LICENSE) 文件。
+本项目采用 GPLv3 许可证，详情参见 [LICENSE](HugoProgs/LICENSE) 文件。
 
-HugoUtils: [LGPLv3 许可证](licenses/LICENSE.LESSER-HugoUtils)
+HugoUtils: [LGPLv3 许可证](HugoProgs/licenses/LICENSE.LESSER-HugoUtils)
 
-WinUtils:  [MIT 许可证](licenses/LICENSE-WinUtils)
+WinUtils:  [MIT 许可证](HugoProgs/licenses/LICENSE-WinUtils)
 
-hash-library: [zlib 许可证](licenses/LICENSE-hash-library)
+hash-library: [zlib 许可证](HugoProgs/licenses/LICENSE-hash-library)
 
-swhelper：[MIT 许可证](licenses/LICENSE-swhelper)
+swhelper：[MIT 许可证](HugoProgs/licenses/LICENSE-swhelper)
 
-cpp-httplib: [MIT 许可证](licenses/LICENSE-cpp-httplib)
+cpp-httplib: [MIT 许可证](HugoProgs/licenses/LICENSE-cpp-httplib)
 
-mINI: [MIT 许可证](licenses/LICENSE-mINI)
+mINI: [MIT 许可证](HugoProgs/licenses/LICENSE-mINI)
 
-WinReg: [MIT 许可证](licenses/LICENSE-WinReg)
+WinReg: [MIT 许可证](HugoProgs/licenses/LICENSE-WinReg)
 
-WinTools: [GPLv3 许可证](licenses/LICENSE-WinTools)
+libsharedmemory：[MIT 许可证](HugoProgs/licenses/LICENSE-libsharedmemory)
+
+OpenSSL: [Apache-2.0 license](HugoProgs/licenses/LICENSE-OpenSSL)
+
+WinTools: [GPLv3 许可证](HugoProgs/licenses/LICENSE-WinTools)
